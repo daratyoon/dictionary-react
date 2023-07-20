@@ -1,3 +1,7 @@
 .Dictionary {
   color: teal;
 }
+
+.Dictionary form {
+  margin: 92px 580px;
+}
