@@ -1,3 +1,7 @@
+body {
+  background-color: rgba(151, 111, 180, 0.4);
+}
+
 .App footer {
   margin-top: 20%;
   text-align: center;
