@@ -5,3 +5,8 @@
 .Dictionary form {
   margin: 92px 553px;
 }
+
+.Dictionary section {
+  background-color: white;
+  padding: 30px;
+}
